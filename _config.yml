@@ -25,6 +25,7 @@ github_username: mclacore
 linkedin_username: mlacore
 minimal_mistakes_skin: air
 search: true
+url: "https://azureogre.com"
 
 # Build settings
 markdown: kramdown
