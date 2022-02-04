@@ -26,6 +26,9 @@ linkedin_username: mlacore
 minimal_mistakes_skin: air
 search: true
 url: "https://azureogre.com"
+repository: "mclacore/myazurerepo"
+logo: "/assets/images/azureogre-logo.png"
+masthead_title: "Azure Ogre"
 
 # Build settings
 markdown: kramdown
@@ -38,6 +41,10 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  
+# Header
+header:
+  overlay_image: /assets/images/bannertest.png
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
