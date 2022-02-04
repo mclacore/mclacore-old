@@ -67,27 +67,27 @@ author:
    # - label: "Website"
     #  icon: "fas fa-fw fa-link"
      # url: "https://azureogre.com"
-    - label: "Twitter"
+    - label: "@michael_lacore"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://twitter.com/michael_lacore"
+    - label: "mclacore"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "LinkedIn"
+      url: "https://github.com/mclacore"
+    - label: "mlacore"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/mlacore/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/michael_lacore"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mclacore"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/"
+      url: "https://www.linkedin.com/in/mlacore/"
 
 defaults:
   # _posts
