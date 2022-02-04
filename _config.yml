@@ -44,7 +44,7 @@ include:
   
 # Header
 header:
-  overlay_image: /assets/images/bannertest.png
+  image: /assets/images/bannertest.png
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
